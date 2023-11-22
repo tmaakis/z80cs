@@ -1,0 +1,7 @@
+dump*
+bin/*
+obj/*
+.vscode/*
+*.bin
+*.asm
+*.txt
